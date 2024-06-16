@@ -1,0 +1,4 @@
+Elementor
+Elementor Header & Footer Builder
+WooCommerce
+Starter Templates — Elementor, WordPress & Beaver Builder Templates
